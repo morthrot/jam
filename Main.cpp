@@ -38,7 +38,10 @@ along with Composer.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include <QtCore>
+
+#ifdef AM_USING_QT5
 #include <QtConcurrent>
+#endif
 
 typedef QList<QStringList> StringListList;
 

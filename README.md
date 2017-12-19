@@ -5,8 +5,7 @@ As soon as all the commands are processed, jam is finished. Upon command complet
 Built with [Qt](http://qt.io/).
 Project [Homepage](http://tycho.sytes.net/projects/index.html#jam).
 
-Direct usage:
-`Usage: jam <cmd> [arg] ... [arg_n] [ --- <cmd> [arg] ... [arg_n] ]`
+Direct usage: `jam <cmd> [arg] ... [arg_n] [ --- <cmd> [arg] ... [arg_n] ]`
 
 Script usage:
 ```perl
